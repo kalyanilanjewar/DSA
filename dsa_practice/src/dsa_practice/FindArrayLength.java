@@ -9,7 +9,7 @@ public class FindArrayLength
 		
 		// get the length of array using length property
 		int lengthOfArray = array.length;
-		
+		 
 		//print the length of array
 		System.out.println("length of array is: "+lengthOfArray);
 	}
